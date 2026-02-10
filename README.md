@@ -185,5 +185,10 @@ Rebuild without cache:
 ```bash
 docker compose build --no-cache
 ```
+
+## 📸 Application Preview
+
+![Application UI](screenshots/app-ui.png)
+
 👩‍💻 Built as part of hands-on DevOps learning journey.
 
