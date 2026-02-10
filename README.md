@@ -187,7 +187,3 @@ docker compose build --no-cache
 ```
 👩‍💻 Built as part of hands-on DevOps learning journey.
 
----
-
-👩‍💻 Built as part of hands-on DevOps learning journey.
-👩‍💻 Built as part of hands-on DevOps learning jou
