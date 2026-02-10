@@ -85,7 +85,7 @@ secure-docker-project/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone 
+git clone https://github.com/aakansha113/secure-docker-flask-app.git
 cd secure-docker-project
 ```
 
