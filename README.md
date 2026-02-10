@@ -85,7 +85,7 @@ secure-docker-project/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone http://
+git clone 
 cd secure-docker-project
 ```
 
