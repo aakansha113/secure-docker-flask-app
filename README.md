@@ -137,6 +137,13 @@ curl http://localhost:5000
 
 ---
 
+## 📸 Application Preview
+
+<p align="center">
+  <img src="screenshots/app-ui.png" width="700">
+</p>
+
+
 # 🧠 What This Project Demonstrates
 
 - Container lifecycle management
@@ -185,13 +192,6 @@ Rebuild without cache:
 ```bash
 docker compose build --no-cache
 ```
-
-## 📸 Application Preview
-
-<p align="center">
-  <img src="screenshots/app-ui.png" width="700">
-</p>
-
 
 👩‍💻 Built as part of hands-on DevOps learning journey.
 
