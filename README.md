@@ -188,7 +188,10 @@ docker compose build --no-cache
 
 ## 📸 Application Preview
 
-![Application UI](screenshots/app-ui.png)
+<p align="center">
+  <img src="screenshots/app-ui.png" width="700">
+</p>
+
 
 👩‍💻 Built as part of hands-on DevOps learning journey.
 
